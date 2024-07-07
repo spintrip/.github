@@ -4,5 +4,4 @@
 - 📫 How to reach us **spintripindia@gmail.com**
 
 <p align="left">
-  [![Deploy to Production](https://github.com/spintrip/frontend-ui-template/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/spintrip/frontend-ui-template/actions/workflows/main.yml)
 </p>
